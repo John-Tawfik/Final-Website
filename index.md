@@ -1,3 +1,6 @@
-# Welcome to my blog
+AP CSP Final Website
 
-I'm glad you are here. I plan to talk about ...
+Name: John Tawfik
+
+Social Media
+Instagram: @johntawfik_
