@@ -7,5 +7,7 @@ John T
 
 instagram_username: johntawfik_
 
+Brag Sheet:
+
 show_excerpts: false # set to false to remove excerpts on the homepage
 ---
