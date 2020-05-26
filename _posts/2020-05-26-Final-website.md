@@ -1,12 +1,12 @@
 ---
-Title: "Final website"
-Date: 2020/05/26
+title: "Final website"
+date: 2020/05/26
 
 John T
 
 theme:minima
 
-# social links
+Social media
 instagram_username: johntawfik_
 
 show_excerpts: false # set to false to remove excerpts on the homepage
