@@ -1,6 +1,8 @@
-AP CSP Final Website
-
 Name: John Tawfik
 
-Social Media
 Instagram: @johntawfik_
+
+Brag Sheet
+
+<img src = "https://github.com/John-Tawfik/Final-Website/blob/master/_posts/Correct%20Github%20image.jpg?raw=true"
+
