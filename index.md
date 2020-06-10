@@ -2,6 +2,8 @@ Name: John Tawfik
 
 Instagram: @johntawfik_
 
+Email: jtawfik@ebnet.org
+
 Brag Sheet:Food Bank volunteer, XC + Track, Orchestra
 
 Food Bank: I started volunteering at Aldersgate food bank a few months ago, before quarantine started. It was handing food out to people who needed government assistance with food, and sorting the shipments of food that they would receive along with donated clothes.
